@@ -1,3 +1,2 @@
-clone the git repo. 
-run npm install
-npm run start to mine and send transfers
+clone the git repo..... run npm install..... run npm run start to mine and send transfers
+
